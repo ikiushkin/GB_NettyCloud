@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Документы\OneDrive\Курсы\Geekbrains\Сетевое хранилище на Java\Чужие работы\CloudServer-code-review2\CloudServer-code-review2\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
